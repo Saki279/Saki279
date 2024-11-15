@@ -1,4 +1,10 @@
-## Hi there 👋
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,py" />
+
+## Frameworks and Library
+
+
+## DB and Dev Tools etc
 
 <!--
 **Saki279/Saki279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
