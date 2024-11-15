@@ -5,6 +5,7 @@
 
 
 ## DB and Dev Tools etc
+<img src="https://skillicons.dev/icons?i=mysql,docker,mongodb,github,vscode,notion" />
 
 <!--
 **Saki279/Saki279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
