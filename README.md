@@ -3,11 +3,11 @@
 
 
 ## Frameworks and Library
-<img src="https://skillicons.dev/icons?i=flask,django,express,jquery" />
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,jquery" />
 
 
 ## DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,docker,mongodb,git,github,vscode,notion,figma,npm,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,mongodb,git,github,vscode,notion,sqlite,npm,postman" />
 
 
 <!--
