@@ -7,7 +7,7 @@
 
 
 ## DB and Dev Tools etc
-<img src="https://skillicons.dev/icons?i=mysql,docker,mongodb,git,github,vscode,notion,sqlite,npm,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,docker,mongodb,git,github,vscode,sqlite,npm,postman,notion" />
 
 
 <!--
